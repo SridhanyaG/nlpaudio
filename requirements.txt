@@ -1,0 +1,19 @@
+#!pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+pymilvus==2.3.0 
+redis
+librosa
+ipython
+numpy
+panns_inference
+transformers>=4.30.0
+tqdm>=4.42.0
+huggingface_hub>=0.7.0
+hyperpyyaml>=0.0.1
+joblib>=0.14.1
+numpy>=1.17.0
+packaging
+pandas>=1.0.1
+pre-commit>=2.3.0
+scipy>=1.4.1
+sentencepiece>=0.1.91
+gradio
